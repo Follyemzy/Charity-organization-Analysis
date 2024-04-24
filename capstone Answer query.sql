@@ -1,3 +1,5 @@
+--SOLUTION TO CASE STUDY 
+
 --a) How much is the total donation?
 select sum(donation) as total_donation
 from donation_data;
